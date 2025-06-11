@@ -1,7 +1,7 @@
 <h1>Hola 👋, soy Esteban.</h1>
 
 # 💫 Acerca de mi:
-👨🏻‍🎓 Actualmente estoy estudiando Desarrollo de Software en la Universidad Tecnológica de Pereira.<br>📢 Disponible para iniciar mis prácticas en una empresa.<br>
+👨🏻‍🎓 Actualmente estoy estudiando Desarrollo de Software en la Universidad Tecnológica de Pereira.<br>📢 Estoy disponible para iniciar mis prácticas profesionales.<br>🔻 Más abajo puedes ver algunos de mis repositorios.
 
 
 # 💻 Tech Stack:
